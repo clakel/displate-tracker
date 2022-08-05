@@ -1,0 +1,25 @@
+{
+  "prefix": "$",
+  "token": "ACCESS_TOKEN",
+  "permissions": "PERMISSION",
+  "application_id": "APPLICATION_ID",
+  "valid_servers": [
+    999999999999999999,
+    999999999999999999
+  ],
+  "channels": {
+    "prod": {
+      "alert": 999999999999999999,
+      "stock_update": 999999999999999999,
+      "reveal": 999999999999999999
+    },
+    "test": {
+      "alert": 999999999999999999,
+      "stock_update": 999999999999999999,
+      "reveal": 999999999999999999
+    }
+  },
+  "owners": [
+    999999999999999999
+  ]
+}
